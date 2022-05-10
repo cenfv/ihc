@@ -3,6 +3,9 @@
 ### Plano de projeto
 > Consulte o Arquivo do projeto para ter uma compreensão mais detalhada sobre o que foi desenvolvido.
 -  [Trabalho de Graduação](https://drive.google.com/file/d/1WN7G57921i7aaCkoicg0ATAx_vlOKCzL/view?usp=sharing)
+### Arquivo APK
+> Build do projeto gerado, (Apenas para **Android 4.4 (SDK 20) e superior** ).
+-  [Arquivo APK](https://drive.google.com/file/d/1GgoUCoXdPpszTyTp54Laa_4fv1HX_1wC/view?usp=sharing)
 
 ### Sobre
 > O projeto consite na elaboração de um documento especificando a implementação de um software educacional, para atender a demanda gerada em decorrência da COVID-19.
