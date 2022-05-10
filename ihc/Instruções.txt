@@ -1,0 +1,6 @@
+Necessário:
+react
+EXPO
+codigos:
+NPM I  // para instalar dependências
+npm start // para iniciar 
